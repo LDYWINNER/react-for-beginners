@@ -1,2 +1,2 @@
-# react-for-begineers
+# react-for-beginers
 Learning React Basics
